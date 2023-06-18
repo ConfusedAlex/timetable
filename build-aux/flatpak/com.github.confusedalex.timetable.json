@@ -39,7 +39,7 @@
             "sources" : [
                 {
                     "type" : "git",
-                    "url" : "."
+                    "url" : "/home/alex/Projects/timetable"
                 }
             ]
         }
