@@ -1,0 +1,6 @@
+data/com.github.confusedalex.timetable.desktop.in
+data/com.github.confusedalex.timetable.appdata.xml.in
+data/com.github.confusedalex.timetable.gschema.xml
+data/window.ui
+src/main.ts
+src/window.ts
